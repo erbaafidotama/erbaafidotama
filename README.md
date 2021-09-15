@@ -2,7 +2,7 @@ Hello! :grin: I'm ``Erba Afidotama``, and I'm web developer with full stack skil
 #### My Skill
 | Frontend                                              | Backend                                        | Database                  |
 | ----------------------------------------------------- | ---------------------------------------------- | --------------------------|
-| Javascript :thumbsup:                                 | Go-lang :thumbsup:                             | MySQL                     |
+| Javascript :thumbsup:                                 | Go-lang :book:                                 | MySQL                     |
 | Typescript :book:                                     | Python :book:                                  | PostgreSQL                |
 | React :thumbsup:                                      | Crystal-lang :book:                            |                           |
 | Svelte :thumbsup:                                     |                                                |                           |
